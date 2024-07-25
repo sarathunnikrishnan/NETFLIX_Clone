@@ -1,0 +1,47 @@
+.nav-logo{
+    width: 148px;
+    height: 65px;
+    cursor: pointer;
+}
+
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 0px;
+    margin: -10px 8%;
+
+}
+
+.nav button {
+    border: 0px;
+    outline: 0;
+    background-color: #db0001;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 12px;
+    border-radius: 4px;
+    margin-left: 10px;
+    cursor: pointer;
+    position: relative;
+    top: 10px;
+    
+}
+
+.nav select {
+    display: inline-flex;
+    align-items: center;
+    background-color: transparent;
+    padding: 7px 10px;
+    color: #fff;
+    border-radius: 4px;
+    position: relative;
+    top: 10px;
+    margin: 10px;
+}
+
+.nav select option{
+    color: #000;
+    border-color: #fff;
+}
+

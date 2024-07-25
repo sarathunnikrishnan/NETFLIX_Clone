@@ -1,0 +1,45 @@
+.end {
+    width: 100%;
+    height: 407px;
+    background-color: #000;
+    position: relative;
+    top: 135px;
+    text-align: left;
+    line-height: 35px;
+    color:  rgba(255,255,255,0.7);
+}
+
+.end a {
+    color: rgba(255,255,255,0.7);
+}
+
+.end table {
+    width: 1000px;
+    height: 145px;
+}
+
+.end table , .end label {
+    margin-left: 160px;
+    position: relative;
+    top: 60px;
+}
+
+.end-language {
+    display: inline-flex;
+    align-items: center;
+    background-color: transparent;
+    padding: 7px 10px;
+    color: #fff;
+    border-radius: 4px;
+    position: relative;
+    top: 10px;
+    margin: 10px;
+    margin-left: 160px;
+    position: relative;
+    top: 60px;
+}
+
+.end-language option {
+    color: #000;
+    border-color: #fff;
+}
